@@ -5,3 +5,4 @@ pwd
 echo.
 echo"==============="
 echo "hello world"
+echo "this is just testing"
